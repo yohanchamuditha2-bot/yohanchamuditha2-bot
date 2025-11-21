@@ -27,12 +27,6 @@ Currently exploring the magic of **Python**, **HTML**, and **CSS** to build cool
 
 ---
 
-### 📫 Connect with Me
-
-- 💼 LinkedIn: [Your LinkedIn URL here]  
-- ✉️ Email: [Your Email here]  
-- 🌐 Portfolio: [If you have one, add it here]
-
 ---
 
 ### 🎯 Fun Fact
