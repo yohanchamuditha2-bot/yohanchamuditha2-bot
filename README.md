@@ -15,7 +15,7 @@ Currently exploring the magic of **Python**, **HTML**, and **CSS** to build cool
 
 ### 🛠️ Skills & Tools
 
-- 💻 Languages: Python, HTML, CSS  
+- 💻 Languages: Python, HTML, CSS, Ruby  
 - 🧰 Tools: VS Code, Git, GitHub  
 - 📚 Learning Platforms: freeCodeCamp, W3Schools, YouTube  
 
